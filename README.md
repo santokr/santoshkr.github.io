@@ -1,2 +1,2 @@
-# santokr.github.io
+# santoshkr.github.io
 Santo's repository
